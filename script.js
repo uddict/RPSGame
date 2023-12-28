@@ -1,6 +1,6 @@
 let winMsg = 'You Win!';
-let loseMsg = 'YOu Loose B***h';
-let tieMsg = 'Tie! Lets Play Again';
+let loseMsg = 'You Loose!!';
+let tieMsg = 'Tie! \n Play Again';
 let moveList = ['Rock','Paper','Scissor'];
 
 /**
